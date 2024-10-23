@@ -1,0 +1,12 @@
+streamlit 
+langchain
+pandas
+transformers
+torch
+accelerate
+sentencepiece
+langchain-community
+pypdf
+python-docx
+nltk
+PyPDF2
