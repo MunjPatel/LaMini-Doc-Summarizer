@@ -85,7 +85,7 @@ The [LaMini-Flan-T5-248M](https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M) mod
 
 2. Open the browser and navigate to the local server link provided (usually `http://localhost:8501`).
 
-3. Upload a document (TXT, PDF, or DOCX) via the interface.
+3. Upload a document (PDF, or DOCX) via the interface.
 
 4. Customize the summary length or parameters if desired.
 
