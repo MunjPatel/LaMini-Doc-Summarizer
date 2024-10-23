@@ -1,12 +1,16 @@
 ## LaMini Document Summarizer
 
-LaMini Document Summarizer is a Streamlit app designed to summarize text documents using the [LaMini-Flan-T5-248M model](https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M). It allows users to upload various text-based documents and generate concise summaries, making it easier to digest large amounts of information quickly.
+LaMini Document Summarizer is a Streamlit app designed to summarize text documents using the LaMini-Flan-T5-248M model, developed by [MBZUAI](https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M). It allows users to upload various text-based documents and generate concise summaries, making it easier to digest large amounts of information quickly.
 
-You can test the app directly by going to [LaMini Document Summarizer Production App](https://lamini-doc-summarizer.streamlit.app/), where the model is running live.
+You can test the app directly by going to [LaMini-Document-Summarizer-App](https://lamini-doc-summarizer.streamlit.app/), where the model is running live.
 
 ## Why LaMini Document Summarizer?
 
 The LaMini Document Summarizer provides a simple and intuitive interface for summarizing long documents. Whether you're conducting research, reviewing lengthy reports, or just want to save time by skimming through the key points, this app helps you generate accurate summaries efficiently.
+
+**Please note:**  
+- **Only suitable for small-scale documents (e.g., 3-4 pages).**  
+- **Summarization can take longer depending on the resources allocated to the community tier version of the backend, internet speed, and size of the file.**
 
 ## Example Use Cases
 
@@ -88,7 +92,6 @@ The [LaMini-Flan-T5-248M](https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M) mod
 5. Click on **Generate Summary** to process the document.
 
 6. View the summarized text on the screen, and download it if needed.
-
 
 ## Error Handling
 
